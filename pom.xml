@@ -9,7 +9,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
 
@@ -23,14 +23,14 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.1.8.Final</version>
+            <version>4.1.35.Final</version>
         </dependency>
 
         <!-- https://repo.spring.io/libs-snapshot/io/netty/netty-handler/4.1.8.Final/netty-handler-4.1.8.Final.jar -->
         <!-- <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-handler</artifactId>
-            <version>4.1.8.Final</version>
+            <version>4.1.35.Final</version>
         </dependency> -->
     </dependencies>
 
